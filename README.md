@@ -47,15 +47,15 @@ Run the application:
 Then create your own master password by first typing "hellohello" as the master password and then pressing the change master password button. Then follow the on screen instructions provided in the screenshots to generate your own passwords or save your own passwords.
 
 ## Screenshots
-**Basic UI:**
+### Basic UI:
 ![KeyKeepr UI](/ss/img1.png)
-**Generating random password:**
+### Generating random password:
 ![KeyKeepr UI](/ss/img2.png)
 ![KeyKeepr UI](/ss/img3.png)
-**Getting a stored password:**
+### Getting a stored password:
 ![KeyKeepr UI](/ss/img4.png)
 ![KeyKeepr UI](/ss/img5.png)
-**Deleting a stored password:**
+### Deleting a stored password:
 ![KeyKeepr UI](/ss/img6.png)
 ![KeyKeepr UI](/ss/img7.png)
 ![KeyKeepr UI](/ss/img8.png)
@@ -68,4 +68,4 @@ Then create your own master password by first typing "hellohello" as the master 
 - Database file is protected with strong cryptography.
 
 ##
-**Happy Coding!!**
+### Happy Coding!!
